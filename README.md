@@ -7,4 +7,4 @@ RMI
 
 ### Image
 
-<img src="Okno.PNG" alt="JavaPaint Screenshot">
+<img src="okno.PNG" alt="JavaPaint Screenshot">
