@@ -4,3 +4,7 @@ The program uses:
 
 JavaFX
 RMI
+
+### Image
+
+<img src="Okno.PNG" alt="JavaPaint Screenshot">
